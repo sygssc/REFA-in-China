@@ -1,8 +1,15 @@
 ## Welcome to REFA China
 
-You can use the [editor on GitHub](https://github.com/sygssc/RefainChina/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+About REFA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+REFA, established in 1924, Germany’s oldest association for work and business organization and enterprise development, is an international provider of in-company training. REFA develops methods for company data gathering and management, coordinates these with the collective bargaining parties and translates them into an association-specific apprenticeship. 
+
+The purpose of REFA is to “increase economic efficiency through training”. In the tradition of scientific management, REFA represents industrial engineering in German-speaking world.
+
+REFA is the standard work organization scheme of all German enterprises. REFA is the base to design processes, design work flows, design production costs and many more essentials in a hi-level production ecosystem.
+
+In the wake of Industry 4.0 REFA developed to the initial starting point of every Industry 4.0 training – without understanding of REFA no understanding of Industry 4.0.
+
 
 ### Markdown
 
