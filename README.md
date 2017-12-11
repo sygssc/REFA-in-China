@@ -1,6 +1,6 @@
 ## Welcome to REFA China
 
-About REFA
+**About REFA
 
 REFA established in 1924, Germany’s oldest association for work and business organization and enterprise development, is an international provider of in-company training. REFA develops methods for company data gathering and management, coordinates these with the collective bargaining parties and translates them into an association-specific apprenticeship. 
 
