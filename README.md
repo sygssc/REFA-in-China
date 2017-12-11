@@ -9,6 +9,9 @@ The purpose of REFA is to “increase economic efficiency through training”. I
 In the wake of Industry 4.0 REFA developed to the initial starting point of every Industry 4.0 training – without understanding of REFA no understanding of Industry 4.0.
 
 
+![Refa logo](https://raw.githubusercontent.com/sygssc/sygssc.github.io/master/refalogo.jpg)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
